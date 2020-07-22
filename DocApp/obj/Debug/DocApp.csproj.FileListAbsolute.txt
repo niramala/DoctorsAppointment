@@ -1,0 +1,5 @@
+c:\users\loyanganba\documents\visual studio 2010\Projects\DocApp\DocApp\bin\DocApp.dll
+c:\users\loyanganba\documents\visual studio 2010\Projects\DocApp\DocApp\bin\DocApp.pdb
+c:\users\loyanganba\documents\visual studio 2010\Projects\DocApp\DocApp\obj\Debug\DocApp.dll
+c:\users\loyanganba\documents\visual studio 2010\Projects\DocApp\DocApp\obj\Debug\DocApp.pdb
+C:\Users\Loyanganba\documents\visual studio 2010\Projects\DocApp\DocApp\obj\Debug\DocApp.csprojResolveAssemblyReference.cache
